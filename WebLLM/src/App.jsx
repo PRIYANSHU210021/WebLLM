@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import * as webllm from "@mlc-ai/web-llm";
-import "./App.css";
+import "./app.css";
 
 function App() {
   const [count, setCount] = useState(0);
